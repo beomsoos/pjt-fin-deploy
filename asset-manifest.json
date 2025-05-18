@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pjt-fin-deploy/static/css/main.24bdd0a7.css",
+    "main.js": "/pjt-fin-deploy/static/js/main.f56328a9.js",
+    "static/media/HelveticaNeueLTPro-BdCn.otf": "/pjt-fin-deploy/static/media/HelveticaNeueLTPro-BdCn.42c035337e933f79d063.otf",
+    "static/media/HelveticaNeueLTPro-Md.otf": "/pjt-fin-deploy/static/media/HelveticaNeueLTPro-Md.750a04f212242fdbb1e5.otf",
+    "index.html": "/pjt-fin-deploy/index.html",
+    "main.24bdd0a7.css.map": "/pjt-fin-deploy/static/css/main.24bdd0a7.css.map",
+    "main.f56328a9.js.map": "/pjt-fin-deploy/static/js/main.f56328a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24bdd0a7.css",
+    "static/js/main.f56328a9.js"
+  ]
+}
